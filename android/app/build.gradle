@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "io.codemagic.ivanwfe"
+    namespace = "io.codemagic.marijan.demo.flutterwfe"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
