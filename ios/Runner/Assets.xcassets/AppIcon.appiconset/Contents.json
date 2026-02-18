@@ -8,7 +8,7 @@
       "filename": "icon-ios-20x20@2x.png"
     },
     {
-      "idiom": "universal",
+      "idiom": "universal", 
       "platform": "ios",
       "scale": "3x",
       "size": "20x20",
